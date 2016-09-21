@@ -10,14 +10,6 @@ Author: Thiago Andrade
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-##
-## Important
-##
-#
-# Actions allow you to add or change WordPress functionality, while filters allow you to filter, or change, content as it is loaded.
-#
- */
-
 /*
  *
  * Good example to follow
