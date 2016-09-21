@@ -1,1 +1,1 @@
-## WordPress started plugin
+## WordPress starter plugin
